@@ -19,5 +19,5 @@ with open(basepath+'.html','w+') as file:
     file.writelines(content)
 
 with open(basepath+'.md','w+') as file:
-    content = [html2markdown.convert(x) for x in content]
+    content = [html2markdown.convert(x)+'\n' for x in content]
     file.writelines(content)
