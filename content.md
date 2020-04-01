@@ -4,13 +4,6 @@
 <a class="btn btn-more" href="/med/corona_lehrende.php">zur Übersicht</a>
 
 
-# +++ aktuelle Ergänzungen +++
-
-\[Aktualisiert am 23.3.2020\]
-
-Die Fachbibliothek Essen schließt heute, 18.3.2020, 15 Uhr, bis auf weiteres.
-
-
 # 1 Verschiebung des Vorlesungsbeginns
 
 \[Aktualisiert am 13.3.2020\]
@@ -60,7 +53,7 @@ Für Studierende werden sich daraus keine Nachteile ergeben
 
 # 2 Klausuren/Prüfungen
 
-\[Aktualisiert am __25 .03.2020__\]
+\[Aktualisiert am __01.04.2020__\]
 
 An der UDE finden vom 16.3. bis einschließlich 19.4.2020 keine Klausurprüfungen statt, die in der Verantwortung der Universität liegen. Mündliche Prüfungen können unter bestimmten Umständen stattfinden.
 
@@ -82,15 +75,17 @@ Bitte beachten: Staatsexamensprüfungen sind nicht Gegenstand der Entscheidung, 
 
 \[17.03.2020 \] Alle universitären schriftlichen Prüfungen der Medizinischen Fakultät, die bis zum 31. März angesetzt sind, werden an einem späteren Termin stattfinden. Der Termin für die die ZANK wird verschoben – siehe auch -&gt;Zentrale Abschlussklausuren (ZANK).
 
-2.4 Staatsexamen M1 und M3
+2.4 Staatsexamen M1, M2 und M3
 
-__\[25.03.2020\] __
+__\[31.03.2020\] __
 
 Alle mündlichen Staatsexamina finden wie geplant statt, die letzten Prüfungen des M1-Examens werden am Dienstag, dem 24.03.2020 beendet sein.
 
-Zur Durchführung des M2 gibt es derzeit keine Informationen. Die Gesundheitsministerien beraten und werden dies im Laufe der Woche bekannt geben. Die Fakultät ist hier nicht Entscheidungsträger und hat auch keinen Einfluss darauf, ob das M2-Examen durchgeführt wird.
+__\[31.03.2020\]&nbsp;__Zur Durchführung des M2 und M3 finden Sie hier die [„Verordnung zur Abweichung von der Approbationsordnung für Ärzte“ ](https://www.bundesgesundheitsministerium.de/abweichung-approbationsordnung.html), die weitreichende Regelungen enthält.
 
-Gleiches gilt für das M3. Eine endgültige Entscheidung erwarten wir Ende der Woche vom Bundesgesundheitsministerium
+__Es liegen zur Zeit noch keine schriftlichen Informationen vom Landesprüfungsamt vor, welche konkreten Regelungen zum M2-Examen in NRW getroffen werden.__
+
+Gleiches gilt für das M3.
 
 2.5 OSCE SoSe 2020
 
@@ -108,22 +103,22 @@ Gleiches gilt für das M3. Eine endgültige Entscheidung erwarten wir Ende der W
 Alle Wahlfächer, die in Präsenzlehre abgehalten werden, werden bis zum 20. April 2020 ausgesetzt und zu einem späteren Zeitpunkt nachgeholt. Die jeweiligen Lehrverantwortlichen der Wahlfächer informieren die Teilnehmerinnen und Teilnehmer über neue Termine.
 
 
-# 4 Famulaturen
+# 4 Famulaturen und Krankenpflegedienste
 
-\[17.03.2020\]
-
-Die Entscheidung, ob Famulaturen wie geplant durchgeführt werden, ist in die Regie der betroffenen Kliniken gegeben, d.h. das Risiko für eine Durchführung ist von der Famulaturstätte einzuschätzen und ggf. Famulanten abzusagen.
+\[31.03.2020\] Finden Sie hier die [„Verordnung zur Abweichung von der Approbationsordnung für Ärzte“](https://www.bundesgesundheitsministerium.de/abweichung-approbationsordnung.html), die Regelungen zur Famulatur und dem Krankenpflegepraktikum enthält.
 
 
 # 5 PJ-ler
 
-\[24.03.2020\]
+\[31.03.2020\]
 
 Der Rektor der Universität Duisburg-Essen, Herr Professor Ulrich Radtke: "vor dem Hintergrund der Entwicklung des Corona-Virus und der damit zusammenhängenden Versorgungssituation am Universitätsklinikum Essen \[und den Akademischen Lehrkrankenhäuser\] bitte ich darum, dass die Studierenden im Praktischen Jahr ihre klinische Ausbildung fortsetzen. Reguläre Lehrveranstaltungen sind davon nicht betroffen".
 
 Fortbildungsveranstaltungen für PJ-ler finden nicht als Präsenzlehre statt.
 
-__Aktuaisiert: __Hier findet ein Beispiel für einen Erlass aus NRW zur Flexibilisierung der Fächervorgaben im PJ [zum Download](/imperia/md/content/med/2020-03-19erlass_pj_in_notfallaufnahme.pdf)&nbsp;und Konkretisierung [zum Download](/imperia/md/content/med/konkretisierung_erlass_pj.pdf)
+__Aktualisiert: __Hier findet ein Beispiel für einen Erlass aus NRW zur Flexibilisierung der Fächervorgaben im PJ [zum Download](/imperia/md/content/med/2020-03-19erlass_pj_in_notfallaufnahme.pdf)&nbsp;und Konkretisierung [zum Download](/imperia/md/content/med/konkretisierung_erlass_pj.pdf)
+
+\[31.03.2020\] Finden Sie hier die [„Verordnung zur Abweichung von der Approbationsordnung für Ärzte“ ](https://www.bundesgesundheitsministerium.de/abweichung-approbationsordnung.html), die weitreichende Regelungen zum Praktischen Jahr enthält.
 
 
 # 6 Zentrale Scheinausgabe
@@ -140,7 +135,7 @@ Die Zentrale Scheinausgabe findet bis auf weiteres nicht statt. Wir bitten alle,
 Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen oder Studierende die Nutzung des Lehr- und Lernzentrums erst wieder ab dem 20. April einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
 
 
-# (neu) 8 Für die Forschung - Hinweise verschiedener Projektträger (neu)
+# 8 Für die Forschung - Hinweise verschiedener Projektträger
 
 \[26.03.2020\]
 
