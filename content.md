@@ -1,9 +1,4 @@
 
-# Übersicht über wissenschaftliche Publikationen
-
-<a class="btn btn-more" href="/med/corona_lehrende.php">zur Übersicht</a>
-
-
 # 1 Verschiebung des Vorlesungsbeginns
 
 \[Aktualisiert am 13.3.2020\]
@@ -59,7 +54,7 @@ An der UDE finden vom 16.3. bis einschließlich 19.4.2020 keine Klausurprüfunge
 
 Während dieser Zeit wird die Entscheidung getroffen werden, ob und ggf. wie der weitere Prüfungsbetrieb ablaufen soll bzw. wie Nachholtermine organisiert werden können. (Mündliche Prüfungen können im Einvernehmen zwischen Prüfenden und Studierenden stattfinden. Prüfungsleistungen wie Hausarbeiten, Abschlussarbeiten etc. können normal eingereicht werden.)
 
-Weiterhin gilt folgende Ausnahmeregelung: Sollten Sie krankheitsbedingt oder aufgrund der derzeitigen Situation für sich entscheiden, nicht an einer schon terminierten Prüfung teilnehmen zu können, können Sie auf Antrag spätestens am Tag der Prüfung (vor Prüfungsbeginn) zurücktreten. Der Antrag kann formlos per E-Mail an die für den Studiengang zuständige Sachbearbeitung des Bereichs Prüfungswesen (https://www.uni-due.de/verwaltung/pruefungswesen/studiengaenge.shtml) gerichtet werden. Es wird in diesem Fall kein Fehlversuch verbucht. Auf diese Weise ist sichergestellt, dass Ihnen keine Nachteile entstehen, wenn Sie entscheiden, dass Sie unter den derzeitigen Umständen nicht prüfungsfähig sind.
+Weiterhin gilt folgende Ausnahmeregelung: Sollten Sie krankheitsbedingt oder aufgrund der derzeitigen Situation für sich entscheiden, nicht an einer schon terminierten Prüfung teilnehmen zu können, können Sie auf Antrag spätestens am Tag der Prüfung (vor Prüfungsbeginn) zurücktreten. Der Antrag kann formlos per E-Mail an die für den Studiengang zuständige Sachbearbeitung des Bereichs [Prüfungswesen](http://www.uni-due.de/verwaltung/pruefungswesen/studiengaenge.shtml)&nbsp;gerichtet werden. Es wird in diesem Fall kein Fehlversuch verbucht. Auf diese Weise ist sichergestellt, dass Ihnen keine Nachteile entstehen, wenn Sie entscheiden, dass Sie unter den derzeitigen Umständen nicht prüfungsfähig sind.
 
 Bitte beachten: Staatsexamensprüfungen sind nicht Gegenstand der Entscheidung, da sie der Aufsicht der staatlichen Prüfungsämter unterliegen.
 
@@ -167,4 +162,21 @@ __Stiftung Universitätsmedizin Essen:__
 __Info:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kostenneutrale Laufzeitverlängerung bei Antrag möglich, bitte kontaktieren Sie dazu die Stiftung Universitätsmedizin (Herrn Jorit Ness, eMail: Jorit.Ness@uk-essen.de)
 
 &nbsp;
+
+
+# 9 Informationen zu den Programmen zur Förderung des Wissenschaftlichen Nachwuchses 
+
+Für Teilnehmerinnen und Teilnehmer unserer Förderprogramme, die aufgrund der Corona-Pandemie notwendigerweise in der Krankenversorgung eingesetzt sind bzw. aufgrund von Laborschließungen ihre Forschungsprojekte derzeit nicht wie geplant fortführen können, besteht die Möglichkeit die Förderungen bzw. Stipendien zu unterbrechen bzw. den Beginn nach hinten zu schieben.&nbsp;
+
+Bitte nehmen Sie in diesen Fällen direkten Kontakt per Mail mit der zuständigen Programmkoordination auf:
+
+*   UMEA Clinician Scientist Programm und Junior Clinician Scientist Programm: [barbara.waje@uk-essen.de](mailto:barbara.waje@uk-essen.de)
+*   ELAN: [gesine.pless@uk-essen.de](mailto:gesine.pless@uk-essen.de)
+
+Für den Fall, dass im Rahmen des MediMent-Programms weitere Veranstaltungen verschoben werden müssen, erhalten Sie eine Mail von Ihrer Programmkoordination. Die Seminare können zu einem späteren Zeitpunkt nachgeholt werden. Dies gilt ebenfalls für Seminare im Rahmen des Qualifizierungsprogramms in UMEA.
+
+
+# Übersicht über wissenschaftliche Publikationen
+
+<a class="btn btn-more" href="/med/corona_lehrende.php">zur Übersicht</a>
 
