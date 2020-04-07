@@ -78,9 +78,7 @@ Alle mündlichen Staatsexamina finden wie geplant statt, die letzten Prüfungen 
 
 __\[31.03.2020\]&nbsp;__Zur Durchführung des M2 und M3 finden Sie hier die [„Verordnung zur Abweichung von der Approbationsordnung für Ärzte“ ](https://www.bundesgesundheitsministerium.de/abweichung-approbationsordnung.html), die weitreichende Regelungen enthält.
 
-__Es liegen zur Zeit noch keine schriftlichen Informationen vom Landesprüfungsamt vor, welche konkreten Regelungen zum M2-Examen in NRW getroffen werden.__
-
-Gleiches gilt für das M3.
+Hier finden Sie die&nbsp;„Mitteilung des LPA Düsseldorf für NRW: Aktuelle Ausnahmeregelungen aufgrund des Corona-Virus“ nennen&nbsp;[www.brd.nrw.de/gesundheit\_soziales/pdf/Aktuelle-Ausnahmeregelungen-Corona.pdf](https://www.brd.nrw.de/gesundheit_soziales/pdf/Aktuelle-Ausnahmeregelungen-Corona.pdf)
 
 2.5 OSCE SoSe 2020
 
@@ -89,6 +87,8 @@ Gleiches gilt für das M3.
 2.6 ZAK SoSe 2020
 
 \[17.03.2020\] Im Moment wird an den Planungen für dieZAK-Prüfungen des SoSe 2020 festgehalten.
+
+&nbsp;
 
 
 # 3 Wahlfächer
