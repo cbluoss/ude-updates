@@ -1,7 +1,8 @@
 
+
 # 1 Verschiebung des Vorlesungsbeginns
 
-\[Aktualisiert am 13.3.2020\]
+\[Aktualisiert am 08.04.2020\]
 
 Verschiebung des Vorlesungsbeginns
 
@@ -31,9 +32,13 @@ Wir versenden an die Studierenden einen LINK, um sich für die Veranstaltungen d
 
 1.4 Blockpraktika
 
-\[17.03.2020\] Das Studiendekanat versucht derzeit Lösungen zu erarbeiten.
+\[08.04.2020\]
 
-Für Studierende werden sich daraus keine Nachteile ergeben
+__Das Blockpraktikum bleibt - unabhängig von der tatsächlichen Durchführungsform - in seiner ursprünglichen Struktur (einzige Ausnahme im nächsten Abatz). __Dies entspricht dem vielfach geäußerten Wunsch und der Notwendigkeit, eine Überschneidungsfreiheit zu gewährleisten. Außerdem ist es der einzige Weg, um u.U. im Laufe des Sommers zu einer Präsenzlehre zurückzukehren.
+
+Die ursprünglich für die Wochen vom 14.04.-24.04. vorgesehenen Gruppen sollen in den Wochen nach dem (eigentlichen) Vorlesungsende (20.07.-31.07.) stattfinden. Inhalte, die online vermittelt werden können, sollen in den entsprechenden Zeitfenstern vermittelt werden, solange dies erforderlich ist. Für das Problem der nachzuholenden praktischen Inhalte wird derzeit nach Lösungen gesucht.&nbsp;
+
+Hier finden Sie&nbsp;die aktualisierte Blockpraktikums-Zeitplanung für das SoSe 2020 – resultierend aus dem verschobenen Vorlesungsbeginn auf den 20.04.2020. [Download](/imperia/md/content/med/zeituebersicht_blockpraktika_sose2020_aktualisiert_april20.xlsx)
 
 1.5 Klinische Praktika
 
@@ -48,7 +53,7 @@ Für Studierende werden sich daraus keine Nachteile ergeben
 
 # 2 Klausuren/Prüfungen
 
-\[Aktualisiert am __01.04.2020__\]
+\[Aktualisiert am __09.04.2020__\]
 
 An der UDE finden vom 16.3. bis einschließlich 19.4.2020 keine Klausurprüfungen statt, die in der Verantwortung der Universität liegen. Mündliche Prüfungen können unter bestimmten Umständen stattfinden.
 
@@ -60,9 +65,14 @@ Bitte beachten: Staatsexamensprüfungen sind nicht Gegenstand der Entscheidung, 
 
 2.1 Zentrale AbschlussNachklausuren (ZANK)
 
-\[25.03.2020\] Die Zentralen Abschlusswiederholungsklausuren (ZANKs) am 31.03./01. und 2.04. werden verschoben und sollen erst nach Beginn der neuen Präsenzphase (Stand 17.03. ist dies der 20.04) angesetzt werden. Bitte informieren Sie sich regelmäßig über unser "Noten- und Anmeldeportal" oder die Seiten des Studiendekanats über den Stand der Planungen und die konkreten Termine.
+\[25.03.2020\] Die Zentralen Abschlusswiederholungsklausuren (ZANKs) am 31.03./01. und 2.04. werden verschoben und sollen erst nach Beginn der neuen Präsenzphase (Stand 17.03. ist dies der 20.04) angesetzt werden. Bitte informieren Sie sich regelmäßig über unser "Noten- und Anmeldeportal" oder die Seiten des Studiendekanats über den Stand der Planungen und die konkreten Termine.  
+\[09.04.2020\] Die neuen Termine für die ZANK-Nachschreibklausuren werden mit einem Vorlauf von mindestens 3 Wochen bekannt gegeben.&nbsp;Wir schalten die Möglichkeit für eine Änderung der Anmeldung zur ZANK auch für eine An- oder Abmeldung in dem Zeitraum noch einmal frei.&nbsp; Bitte informieren Sie sich regelmäßig über unser "Noten- und Anmeldeportal" oder die Seiten des Studiendekanats über den Stand der Planungen und die konkreten Termine.
 
-2.2 Mündliche Prüfungen
+<span style='font-size:10.0pt;font-family:"Open Sans",sans-serif;color:black'>
+
+<o:p></o:p>
+
+</span>2.2 Mündliche Prüfungen
 
 \[__24.03.2020__\] Universitäre Mündliche Prüfungen finden nach Absprache mit dem Fachvertreter __nicht __statt.&nbsp;__Das betrifft auch Promotionsprüfungen. Nicht betroffen ist das M1.__
 
@@ -82,7 +92,7 @@ Hier finden Sie die&nbsp;„Mitteilung des LPA Düsseldorf für NRW: Aktuelle Au
 
 2.5 OSCE SoSe 2020
 
-\[17.03.2020\] Im Moment wird an den Planungen für die OSCE-Prüfungen des SoSe 2020 festgehalten.
+\[08.04.2020\] Die OSCE-Prüfungen (eigentlich geplant für den 22.-24.07.) werden verschoben (Termin noch nicht bekannt).
 
 2.6 ZAK SoSe 2020
 
@@ -174,6 +184,15 @@ Bitte nehmen Sie in diesen Fällen direkten Kontakt per Mail mit der zuständige
 *   ELAN: [gesine.pless@uk-essen.de](mailto:gesine.pless@uk-essen.de)
 
 Für den Fall, dass im Rahmen des MediMent-Programms weitere Veranstaltungen verschoben werden müssen, erhalten Sie eine Mail von Ihrer Programmkoordination. Die Seminare können zu einem späteren Zeitpunkt nachgeholt werden. Dies gilt ebenfalls für Seminare im Rahmen des Qualifizierungsprogramms in UMEA.
+
+
+# 10 Beratungsangebote speziell für Nachwuchswissenschaftler/innen
+
+\[08.04.2020\]
+
+10.1 Nachwuchswissenschaftlerinnen und –wissenschaftler mit aktuellem Beratungsbedarf oder Nachfragen zu den Förderprogrammen der Medizinischen Fakultät können an der „WiNa Online-Sprechstunde“ teilnehmen. Diese findet immer dienstags von 10.00 – 11.00 Uhr statt. Interessenten melden sich einfach unter [wiss.nachwuchs@uk-essen.de](mailto:wiss.nachwuchs@uk-essen.de) an und schildern kurz ihr Anliegen. Sie erhalten dann den Zugang zum ZOOM-Meetingraum dann zugestellt. Dies ist auch die eMail-Adresse für alle weiteren Fragen und Anliegen.
+
+10.2 Das Graduate Center Plus, Nachwuchsförderung an der Uni DUE, bietet auch ein tolles Angebot im Kontext mit der aktuellen Situation: Über die __„Coaching-Stunde“ besteht die __Möglichkeit, zu individuellen Anliegen in einen vertrauensvollen Dialog zu treten. Weitere Informationen finden sich [hier](/imperia/md/content/med/coachingstunde_gcplus_2020.pdf).&nbsp;
 
 
 # Übersicht über wissenschaftliche Publikationen
