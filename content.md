@@ -12,7 +12,9 @@ Der Lehrbetrieb in Präsenzform ist bis dahin vollständig eingestellt. Dies bet
 
 1.1 Virtueller Semesterstart ab 20. April mittels E-Learning
 
-\[17.03.2020\] Bitte informieren Sie sich sich (z.B. auf der Seite des Studierendendekanats), welche Online-Lernangebote für Ihre Semesterfächer von Seiten der jeweilen Fächer angeboten werden.
+\[10.04.2020\] Bitte informieren Sie sich sich (z.B. auf der Seite des Studierendendekanats), welche Online-Lernangebote für Ihre Semesterfächer von Seiten der jeweilen Fächer angeboten werden.
+
+__MOODLE-Passwörter finden Sie im Studierendenportal unter <http://www.medizin-studium-essen.de> unter dem Menüpunkt "Mein Medizinstudium" - Ihre Hochschulkennung wird benötigt. __
 
 Ggf. werden sowohl Vorlesungen aufgezeichnet und über Moodle zur Verfügung gestellt oder es finden Seminare als sog. Online-Seminare statt, zu denen Sie nach Anmeldung vom Fach eine Einladung zum Beitritt in den virtuellen Klassenraum erhalten.
 
