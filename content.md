@@ -173,6 +173,10 @@ __Stiftung Universitätsmedizin Essen:__
 
 __Info:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kostenneutrale Laufzeitverlängerung bei Antrag möglich, bitte kontaktieren Sie dazu die Stiftung Universitätsmedizin (Herrn Jorit Ness, eMail: Jorit.Ness@uk-essen.de)
 
+__„ERAvsCORONA“ Aktionsplan&nbsp;__
+
+Im Kampf gegen die COVID-19 Pandemie haben sich die Forschungsminister der EU-Mitgliedstaaten am 7. April 2020 per Videokonferenz auf einen „ERAvsCORONA“ Aktionsplan geeinigt, der eine Liste von 10 Maßnahmen umfasst, die größtenteils bereits sofort mit Hilfe existierender Förderinstrumente des Europäischen Forschungsraumes umgesetzt und fortlaufend ergänzt werden sollen. [Weitere Infos.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
+
 &nbsp;
 
 
@@ -192,7 +196,7 @@ Für den Fall, dass im Rahmen des MediMent-Programms weitere Veranstaltungen ver
 
 \[08.04.2020\]
 
-10.1 Nachwuchswissenschaftlerinnen und –wissenschaftler mit aktuellem Beratungsbedarf oder Nachfragen zu den Förderprogrammen der Medizinischen Fakultät können an der „WiNa Online-Sprechstunde“ teilnehmen. Diese findet immer dienstags von 10.00 – 11.00 Uhr statt. Interessenten melden sich einfach unter [wiss.nachwuchs@uk-essen.de](mailto:wiss.nachwuchs@uk-essen.de) an und schildern kurz ihr Anliegen. Sie erhalten dann den Zugang zum ZOOM-Meetingraum dann zugestellt. Dies ist auch die eMail-Adresse für alle weiteren Fragen und Anliegen.
+10.1 Nachwuchswissenschaftlerinnen und –wissenschaftler mit aktuellem Beratungsbedarf oder Nachfragen zu den Förderprogrammen der Medizinischen Fakultät können an der „WiNa Online-Sprechstunde“ teilnehmen. Diese findet immer dienstags von 10.00 – 11.00 Uhr statt. Interessenten melden sich einfach unter [wiss.nachwuchs@uk-essen.de](mailto:wiss.nachwuchs@uk-essen.de) an und schildern kurz ihr Anliegen. Sie erhalten dann den Zugang zum ZOOM-Meetingraum. Dies ist auch die eMail-Adresse für alle weiteren Fragen und Anliegen.
 
 10.2 Das Graduate Center Plus, Nachwuchsförderung an der Uni DUE, bietet auch ein tolles Angebot im Kontext mit der aktuellen Situation: Über die __„Coaching-Stunde“ besteht die __Möglichkeit, zu individuellen Anliegen in einen vertrauensvollen Dialog zu treten. Weitere Informationen finden sich [hier](/imperia/md/content/med/coachingstunde_gcplus_2020.pdf).&nbsp;
 
