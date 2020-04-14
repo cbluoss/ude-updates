@@ -1,5 +1,4 @@
 
-
 # 1 Verschiebung des Vorlesungsbeginns
 
 \[Aktualisiert am 08.04.2020\]
