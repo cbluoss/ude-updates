@@ -33,13 +33,15 @@ Wir versenden an die Studierenden einen LINK, um sich für die Veranstaltungen d
 
 1.4 Blockpraktika
 
-\[08.04.2020\]
+\[14.04.2020\]
 
 __Das Blockpraktikum bleibt - unabhängig von der tatsächlichen Durchführungsform - in seiner ursprünglichen Struktur (einzige Ausnahme im nächsten Abatz). __Dies entspricht dem vielfach geäußerten Wunsch und der Notwendigkeit, eine Überschneidungsfreiheit zu gewährleisten. Außerdem ist es der einzige Weg, um u.U. im Laufe des Sommers zu einer Präsenzlehre zurückzukehren.
 
 Die ursprünglich für die Wochen vom 14.04.-24.04. vorgesehenen Gruppen sollen in den Wochen nach dem (eigentlichen) Vorlesungsende (20.07.-31.07.) stattfinden. Inhalte, die online vermittelt werden können, sollen in den entsprechenden Zeitfenstern vermittelt werden, solange dies erforderlich ist. Für das Problem der nachzuholenden praktischen Inhalte wird derzeit nach Lösungen gesucht.&nbsp;
 
 Hier finden Sie&nbsp;die aktualisierte Blockpraktikums-Zeitplanung für das SoSe 2020 – resultierend aus dem verschobenen Vorlesungsbeginn auf den 20.04.2020. [Download](/imperia/md/content/med/zeituebersicht_blockpraktika_sose2020_aktualisiert_april20.xlsx)
+
+neu \[14.04.2020\]:&nbsp;_Es können an den Blockpraktika auch teilnehmen, die durch die Verschiebung der jetzt aktuellen ZANK aus dem WiSe 19/20&nbsp; die Voraussetzungen zur Teilnahme noch nicht erfüllen konnte._
 
 1.5 Klinische Praktika
 
