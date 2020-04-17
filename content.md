@@ -21,9 +21,9 @@ Diese Möglichkeit wird nicht in allen Fällen bestehen und ist insbesondere dav
 
 1.2 Semesterstart 1. klinisches Semester
 
-\[17.03.2020\]
+\[16.04.2020\]
 
-Der Start der Präsenzlehre ist auf den 20. April verschoben. Wir bitten alle externen Studierenden, die für einen Studienplatz der Humanmedizin in Essen zugelassenen sind, sich über die Adresse [med@uni-due.de](mailto:med@uni-due.de) zu melden.
+__Der Start der Präsenzlehre ist auf den 20. April verschoben. Wir bitten alle externen Studierenden, die für einen Studienplatz der Humanmedizin in Essen zugelassenen sind, sich über die Adresse [med@uni-due.de](mailto:med@uni-due.de) zu melden und Ihr Postfach (auch Spam) zu überprüfen. Sie erhalten verläufige Zugangsdaten für das Studierendenportal [www.medizin-studium-essen.de](http://www.medizin-studium-essen.de)__
 
 Wir versenden an die Studierenden einen LINK, um sich für die Veranstaltungen des 1. klinischen Semesters in unserem Studierendenverwaltungsprogramm anzumelden.
 
@@ -159,6 +159,7 @@ Informationen werden laufend aktualisiert: [https://www.dfg.de/service/presse/be
 *   DFG-Stipendien sowie Fellows in DFG-Programmen ([PDF: 2\_Anschreiben i.S. Maßnahmen Corona-Krise; hier Stipendiaten und Fellows](/imperia/md/content/med/2_anschreiben_i.s._maßnahmen_corona-krise__hier_stipendiaten_und_fellows.pdf))
 *   Personal aus DFG-Projekten und Einsatz in KV ([PDF: 3\_Schreiben\_geförderte\_med\_Personal](/imperia/md/content/med/3_schreiben_geförderte_med_personal.pdf))
 *   Fristverlängerungen bei DFG-Ausschreibungen : [https://www.dfg.de/foerderung/info\_wissenschaft/index.jsp](https://www.dfg.de/foerderung/info_wissenschaft/index.jsp)
+*   Fristverlängerung Emmy Noether Programm:&nbsp;[https://www.dfg.de/foerderung/programme/einzelfoerderung/emmy\_noether/](https://www.dfg.de/foerderung/programme/einzelfoerderung/emmy_noether/)
 
 __DKH__
 
@@ -178,7 +179,11 @@ __„ERAvsCORONA“ Aktionsplan&nbsp;__
 
 Im Kampf gegen die COVID-19 Pandemie haben sich die Forschungsminister der EU-Mitgliedstaaten am 7. April 2020 per Videokonferenz auf einen „ERAvsCORONA“ Aktionsplan geeinigt, der eine Liste von 10 Maßnahmen umfasst, die größtenteils bereits sofort mit Hilfe existierender Förderinstrumente des Europäischen Forschungsraumes umgesetzt und fortlaufend ergänzt werden sollen. [Weitere Infos.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
 
-&nbsp;
+### Verlängerung der Bewerbungsfrist RISE 2020
+
+Die Bewerbungsfrist für den Aufruf Research and Innovation Staff Exchange (RISE) 2020 wird aufgrund der Covid19-Pandemie __auf den 12. Mai 2020, 17:00 Uhr Brüsseler Zeit verlängert__. Zudem fordert die Research Ecxecutive Agency (REA), die 'Letter of Commitment' der Partnerorganisationen erst bei der Verhandlung der Grant Agreements ein.
+
+<a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-rise-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=H2020;programDivisionCode=31047830;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState" target="_blank" title="Zum Funding and Tenders Portal der Europäischen Kommission">Informationen unter dem Header 'Call Updates'</a>
 
 
 # 9 Informationen zu den Programmen zur Förderung des Wissenschaftlichen Nachwuchses 
