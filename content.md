@@ -138,9 +138,9 @@ Die Zentrale Scheinausgabe findet bis auf weiteres nicht statt. Wir bitten alle,
 
 # 7 Schließung des Lehr- und Lernzentrums
 
-\[17.03.2020\]
+__\[20.04.2020\]__
 
-Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen oder Studierende die Nutzung des Lehr- und Lernzentrums erst wieder ab dem 20. April einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
+Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen oder Studierende die Nutzung des Lehr- und Lernzentrums erst wieder ab dem __05. Mai 2020 __einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
 
 
 # 8 Für die Forschung - Hinweise verschiedener Projektträger
