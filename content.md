@@ -56,9 +56,9 @@ Für Studierende werden sich daraus keine Nachteile ergeben
 
 # 2 Klausuren/Prüfungen
 
-\[Aktualisiert am __09.04.2020__\]
+\[Aktualisiert am __20.04.2020__\]
 
-An der UDE finden vom 16.3. bis einschließlich 19.4.2020 keine Klausurprüfungen statt, die in der Verantwortung der Universität liegen. Mündliche Prüfungen können unter bestimmten Umständen stattfinden.
+An der UDE finden vom 16.3. __bis einschließlich 03.5.2020 __keine Klausurprüfungen statt, die in der Verantwortung der Universität liegen.&nbsp;
 
 Während dieser Zeit wird die Entscheidung getroffen werden, ob und ggf. wie der weitere Prüfungsbetrieb ablaufen soll bzw. wie Nachholtermine organisiert werden können. (Mündliche Prüfungen können im Einvernehmen zwischen Prüfenden und Studierenden stattfinden. Prüfungsleistungen wie Hausarbeiten, Abschlussarbeiten etc. können normal eingereicht werden.)
 
