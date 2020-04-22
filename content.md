@@ -145,7 +145,7 @@ Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltun
 
 # 8 Für die Forschung - Hinweise verschiedener Projektträger
 
-\[26.03.2020\]
+\[21.04.2020\]
 
 __Bundesministerium für Bildung und Forschung (BMBF) (Projektträger DLR)__
 
@@ -184,6 +184,13 @@ Im Kampf gegen die COVID-19 Pandemie haben sich die Forschungsminister der EU-Mi
 Die Bewerbungsfrist für den Aufruf Research and Innovation Staff Exchange (RISE) 2020 wird aufgrund der Covid19-Pandemie __auf den 12. Mai 2020, 17:00 Uhr Brüsseler Zeit verlängert__. Zudem fordert die Research Ecxecutive Agency (REA), die 'Letter of Commitment' der Partnerorganisationen erst bei der Verhandlung der Grant Agreements ein.
 
 <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-rise-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=H2020;programDivisionCode=31047830;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState" target="_blank" title="Zum Funding and Tenders Portal der Europäischen Kommission">Informationen unter dem Header 'Call Updates'</a>
+
+<h3 class="fw-normal" style='color: var(--color-grey); margin: 0px; padding: 0px; font-size: var(--font-size-h3); line-height: var(--line-height-h3); font-weight: normal; font-family: "PT Sans", sans-serif; background-color: rgb(244, 244, 244);'><strong>European Commission</strong></h3>
+
+<h3 class="fw-normal" style='margin: 0px; padding: 0px; font-size: var(--font-size-h3); line-height: var(--line-height-h3); color: var(--color-grey); font-weight: normal; font-family: "PT Sans", sans-serif; background-color: rgb(244, 244, 244);'><br/>
+The European Commission, led by the European Innovation Council and in close collaboration with the EU member states, will host a pan-European hackathon to connect civil society, innovators, partners and investors across Europe in order to develop innovative solutions for coronavirus-related challenges.When? <strong>24, 25 and 26 April</strong></h3>
+
+<https://euvsvirus.org/>
 
 
 # 9 Informationen zu den Programmen zur Förderung des Wissenschaftlichen Nachwuchses 
