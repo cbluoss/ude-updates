@@ -93,6 +93,25 @@ __\[31.03.2020\]&nbsp;__Zur Durchführung des M2 und M3 finden Sie hier die [„
 
 Hier finden Sie die&nbsp;„Mitteilung des LPA Düsseldorf für NRW: Aktuelle Ausnahmeregelungen aufgrund des Corona-Virus“ nennen&nbsp;[www.brd.nrw.de/gesundheit\_soziales/pdf/Aktuelle-Ausnahmeregelungen-Corona.pdf](https://www.brd.nrw.de/gesundheit_soziales/pdf/Aktuelle-Ausnahmeregelungen-Corona.pdf)
 
+__\[23.04.2020\]&nbsp; __M3 Prüfung – __voraussichtlicher Ablauf__  
+Sie erhalten - ganz normal - ein Ladung zur Prüfung vom LPA. Im Regelfall wird dies zum Termin des Ihnen bereits bekannten __2. Prüfungstages__ sein. Die Prüfung findet nur an diesem Tag statt.
+
+Sie werden gebeten, sich mit dem Vorsitzenden der Prüfungskommission in Verbindung zu setzen, um den Termin für die __vorterminliche Aufgabe __zu erfahren.  
+&nbsp;  
+Die __vorterminlichen Aufgaben__ können sein:  
+\* ggf. eine Patientenuntersuchung unter Einhaltung der gebotenen Hygieneregeln  
+\* ein Simulator  
+\* ein Modell  
+\* ein Medium (z.B. eine Patientenakte oder ein Video)  
+&nbsp;  
+Wie üblich müssen Sie einen Bericht erstellen nach §9 (4) der ÄAppO.  
+&nbsp;  
+Die Prüfung findet regulär mit __4 Prüfern__ statt. Ggf. kann in Ausnahmesituationen die Anzahl der Prüfer reduziert werden.  
+Der zeitliche Umfang der Prüfung ist pro Prüfling zwischen __45 min und 1 h__.  
+Es wird in der Regel __1 Prüfling&nbsp; von 4 Prüfern gleichzeitig__ geprüft. Die Prüfungen der Kandiatinnen und Kanditaten erfolgen hintereinander. Das __Prüfungsergebnis__ wird am Ende der Prüfung nach Beratung der Prüfungskommission jedem Prüfling einzeln mitgeteilt.
+
+&nbsp;
+
 2.5 OSCE SoSe 2020
 
 \[08.04.2020\] Die OSCE-Prüfungen (eigentlich geplant für den 22.-24.07.) werden verschoben (Termin noch nicht bekannt).
@@ -194,6 +213,20 @@ The European Commission, led by the European Innovation Council and in close col
 
 
 # 9 Informationen zu den Programmen zur Förderung des Wissenschaftlichen Nachwuchses 
+
+\[neu: 28.04.2020\]
+
+__UMEA - Clinician Scientists Programm &amp; Junior Clinician Scientist Stipendium__
+
+Aufgrund von Laborschließungen im Zusammenhang mit der Corona-Pandemie können diverse geförderte Ärzt/innen und Studierende ihre Forschungsprojekte aktuell nicht wie geplant fortführen und werden notwendigerweise in der Krankenversorgung eingesetzt. Förderungen und Stipendien der Medizinischen Fakultät bzw. von anderen Förderern (wie z.B. der DFG) können entsprechend nicht in der geplanten Art und Weise von ihnen wahrgenommen werden. Dies gilt insbesondere auch für die UMEA Clinician Scientists sowie das Junior Clinician Scientist Stipendium.
+
+Damit die für die Freistellung bzw. die Förderung derjenigen Wissenschaftler/innen vorgesehenen Gelder nicht verloren gehen und diese für die Zeit nach der Pandemie zur Verfügung stehen, hat das Dekanat vorsorglich die Möglichkeit der Übertragung dieser Gelder in das kommende Jahr beschlossen. Nach Möglichkeit soll die Laufzeitverlängerung aber kostenneutral erfolgen. &nbsp;Sobald die Normalisierung der Situation absehbar ist, wird eine individuelle Betrachtung im Hinblick auf die (Neu-) Verteilung der Forschungszeiten im Clinician Scientist Programm sowie die Finanzierung erfolgen.&nbsp;
+
+Hintergrund: Die DFG hat folgende Regelung veröffentlicht. [https://www.uni-due.de/imperia/md/content/med/3\_schreiben\_gef%C3%B6rderte\_med\_personal.pdf](https://www.uni-due.de/imperia/md/content/med/3_schreiben_gef%C3%B6rderte_med_personal.pdf)&nbsp;&nbsp;&nbsp;
+
+Kontakt: Dr. Barbara Waje, [barbara.waje@uk-essen.de](mailto:barbara.waje@uk-essen.de)
+
+__Weitere Informationen für wissenschaftlichen Nachwuchs__
 
 Für Teilnehmerinnen und Teilnehmer unserer Förderprogramme, die aufgrund der Corona-Pandemie notwendigerweise in der Krankenversorgung eingesetzt sind bzw. aufgrund von Laborschließungen ihre Forschungsprojekte derzeit nicht wie geplant fortführen können, besteht die Möglichkeit die Förderungen bzw. Stipendien zu unterbrechen bzw. den Beginn nach hinten zu schieben.&nbsp;
 
