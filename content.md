@@ -134,6 +134,12 @@ Alle Wahlfächer, die in Präsenzlehre abgehalten werden, werden bis zum 20. Apr
 
 \[31.03.2020\] Finden Sie hier die [„Verordnung zur Abweichung von der Approbationsordnung für Ärzte“](https://www.bundesgesundheitsministerium.de/abweichung-approbationsordnung.html), die Regelungen zur Famulatur und dem Krankenpflegepraktikum enthält.
 
+\[04.05.2020\]&nbsp;Das LPA hat uns am 4.5.2020 folgende Regelung mitgeteilt:
+
+„Nach rechtlicher Prüfung können Zeiten der Famulatur und des Krankenpflegediensts auf Basis von §§ 3 und 4 der AbweichungsVO __ausnahmsweise auch in Zeiträumen, in denen der Lehrbetrieb <u>ausschließlich</u> durch digitale Lehrveranstaltungen durchgeführt wird, abgeleistet werden.__ __Dies gilt nur soweit die Erreichung der Ziele des Lehrbetriebes hierbei gesichert ist.__
+
+__Diese Ausnahmeregelung ist ausdrücklich begrenzt auf den Geltungszeitraum der AbweichungsVO und auf Zeiträume, in denen ausschließlich digitale Lehrveranstaltungen stattfinden.“__
+
 
 # 5 PJ-ler
 
@@ -162,7 +168,7 @@ __\[20.04.2020\]__
 Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen oder Studierende die Nutzung des Lehr- und Lernzentrums erst wieder ab dem __05. Mai 2020 __einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
 
 
-# 8 Für die Forschung - Hinweise verschiedener Projektträger
+# 8 Für die Forschung - Infos zum Forschungsbetrieb und Hinweise verschiedener Projektträger
 
 \[21.04.2020\]
 
