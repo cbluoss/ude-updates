@@ -163,9 +163,9 @@ Die Zentrale Scheinausgabe findet bis auf weiteres nicht statt. Wir bitten alle,
 
 # 7 Schließung des Lehr- und Lernzentrums
 
-__\[20.04.2020\]__
+__\[08.05.2020\]__
 
-Das Lehr- und Lernzentrum ist nur noch für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen oder Studierende die Nutzung des Lehr- und Lernzentrums erst wieder ab dem __05. Mai 2020 __einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
+Das Lehr- und Lernzentrum ist nur für gebuchte und bewilligte Veranstaltungen nach Vorgaben der dann gültigen Auflagen geöffnet. Wir bitte alle Lerngruppen und Studierenden, die Nutzung des Lehr- und Lernzentrums erst wieder ab dem __23. Mai 2020 __einzuplanen. Von der Schließung betroffen ist auch das Lerncafé und der PC-Pool.
 
 
 # 8 Für die Forschung - Infos zum Forschungsbetrieb und Hinweise verschiedener Projektträger
@@ -204,7 +204,7 @@ __„ERAvsCORONA“ Aktionsplan&nbsp;__
 
 Im Kampf gegen die COVID-19 Pandemie haben sich die Forschungsminister der EU-Mitgliedstaaten am 7. April 2020 per Videokonferenz auf einen „ERAvsCORONA“ Aktionsplan geeinigt, der eine Liste von 10 Maßnahmen umfasst, die größtenteils bereits sofort mit Hilfe existierender Förderinstrumente des Europäischen Forschungsraumes umgesetzt und fortlaufend ergänzt werden sollen. [Weitere Infos.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
 
-### Verlängerung der Bewerbungsfrist RISE 2020
+__Verlängerung der Bewerbungsfrist RISE 2020__
 
 Die Bewerbungsfrist für den Aufruf Research and Innovation Staff Exchange (RISE) 2020 wird aufgrund der Covid19-Pandemie __auf den 12. Mai 2020, 17:00 Uhr Brüsseler Zeit verlängert__. Zudem fordert die Research Ecxecutive Agency (REA), die 'Letter of Commitment' der Partnerorganisationen erst bei der Verhandlung der Grant Agreements ein.
 
@@ -216,6 +216,10 @@ Die Bewerbungsfrist für den Aufruf Research and Innovation Staff Exchange (RISE
 The European Commission, led by the European Innovation Council and in close collaboration with the EU member states, will host a pan-European hackathon to connect civil society, innovators, partners and investors across Europe in order to develop innovative solutions for coronavirus-related challenges.When? <strong>24, 25 and 26 April</strong></h3>
 
 <https://euvsvirus.org/>
+
+__VW-Förderinitiative [Corona Crisis and Beyond – Perspectives for Science, Scholarship and Society](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/corona-crisis-and-beyond-perspectives-for-science-scholarship-and-society)&nbsp;__
+
+Das Angebot richtet sich an Wissenschaftler\*innen&nbsp;aller Disziplinen und fordert insbesondere die Lebens-, Natur-, Technik- sowie die Geistes- und Gesellschaftswissenschaften zur Antragstellung auf.&nbsp;
 
 
 # 9 Informationen zu den Programmen zur Förderung des Wissenschaftlichen Nachwuchses 
