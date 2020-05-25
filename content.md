@@ -170,7 +170,23 @@ Das Lehr- und Lernzentrum ist nur für gebuchte und bewilligte Veranstaltungen n
 
 # 8 Für die Forschung - Infos zum Forschungsbetrieb und Hinweise verschiedener Projektträger
 
-\[21.04.2020\]
+\[20.05.2020\]<a name="gesundheit"></a>
+
+<a name="gesundheit">__Neue Förderausschreibung der EU-Kommission zu COVID-19 und Online-Informationsveranstaltung am 20. Mai 2020&nbsp;__</a>
+
+&nbsp;
+
+Die Förderung soll die schon [angestoßene Förderung zu Impfung, Diagnostik und Therapie](https://ec.europa.eu/info/news/emergency-coronavirus-research-commission-selects-18th-project-develop-rapid-diagnostics-2020-mar-31_en) ergänzen. Es geht dabei nicht um die Entwicklung neuer Lösungen, sondern um die schnelle Nutzung und Anpassung bereits entwickelter Lösungen.
+
+Geplant sind Ausschreibungen im Rahmen von Research and Innovation Actions (RIA), Innovation Actions (IA) und Coordination and Support Actions (CSA) zu folgenden Themen:
+
+*   Repurposing of manufacturing for vital medical supplies and equipment (IA)
+*   Medical technologies, Digital tools and Artificial Intelligence analytics to improve surveillance and care at high Technology Readiness Levels (IA)
+*   Behavioural, social and economic impacts of the outbreak response (RIA)
+*   Pan-European COVID-19 cohorts (RIA)
+*   Networking of existing EU and international cohorts of relevance to COVID-19 (CSA)
+
+__Die Einreichfrist endet am 11. Juni 2020.__ Weitere Informationen finden Sie auf dem [Funding &amp; Tenders Portal der EU-Kommission](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502,31094503;programCode=H2020;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=H2020-SC1-PHE-CORONAVIRUS-2020-2;sortQuery=submissionStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState).
 
 __Bundesministerium für Bildung und Forschung (BMBF) (Projektträger DLR)__
 
