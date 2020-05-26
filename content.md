@@ -56,6 +56,24 @@ Für Studierende werden sich daraus keine Nachteile ergeben
 
 # 2 Klausuren/Prüfungen
 
+\[Aktualisiert am 26.05.2020\]&nbsp;
+
+Klausurprüfungen in Präsenz werden derzeit vorbereitet, vor allem im Hinblick darauf, wie der weitere Prüfungsbetrieb ablaufen soll bzw. wie Nachholtermine organisiert werden können.
+
+Oberstes Gebot ist die strikte Einhaltung der Hygienerichtlinien.
+
+Sie werden über Prüfungstermine über OpenCampus oder Moodle rechtzeitig informiert, sofern sich Veränderungen an den bisher angekündigten Terminen ergeben.
+
+Ziel ist es, alle Prüfungen an den geplanten Terminen durchzuführen.
+
+Weiterhin gilt folgende Ausnahmeregelung: Sollten Sie krankheitsbedingt oder aufgrund der derzeitigen Situation für sich entscheiden, nicht an einer schon terminierten Prüfung teilnehmen zu können, können Sie auf Antrag spätestens am Tag der Prüfung (vor Prüfungsbeginn) zurücktreten. Der Antrag kann formlos per E-Mail an die für den Studiengang zuständige Sachbearbeitung des Bereichs Prüfungswesen&nbsp;gerichtet werden. Es wird in diesem Fall kein Fehlversuch verbucht. Auf diese Weise ist sichergestellt, dass Ihnen keine Nachteile entstehen, wenn Sie entscheiden, dass Sie unter den derzeitigen Umständen nicht prüfungsfähig sind.
+
+Bitte beachten: Staatsexamensprüfungen sind nicht Gegenstand der Entscheidung, da sie der Aufsicht der staatlichen Prüfungsämter unterliegen.
+
+__Zählung von Prüfungsversuchen__
+
+§7(4) Prüfungen, die im Sommersemester 2020 abgelegt und nicht bestanden werden, gelten als nicht unternommen. Der Rücktritt von einer Prüfung ist bis zu ihrem Beginn zulässig; das Versäumnis einer Prüfung ist unschädlich. Corona-Epidemie-Hochschulverordnung ([Link pdf](/imperia/md/content/med/corona-epidemie-hochschulvo_i._d._f._erste_Änderungsvo_-15-05-2020.pdf))
+
 \[Aktualisiert am __20.04.2020__\]
 
 An der UDE finden vom 16.3. __bis einschließlich 03.5.2020 __keine Klausurprüfungen statt, die in der Verantwortung der Universität liegen.&nbsp;
