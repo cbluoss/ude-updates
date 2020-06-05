@@ -1,8 +1,6 @@
 
 # 1 Verschiebung des Vorlesungsbeginns
 
-\[Aktualisiert am 08.04.2020\]
-
 Verschiebung des Vorlesungsbeginns
 
 \[13.03.2020\] Das Rektorat hat in Abstimmung mit dem Ministerium für Kultur und Wissenschaft NRW (MKW NRW) entschieden, den Vorlesungsbeginn des Sommersemesters 2020 auf den 20. April 2020 zu verschieben.
@@ -88,6 +86,30 @@ Bitte beachten: Staatsexamensprüfungen sind nicht Gegenstand der Entscheidung, 
 
 \[25.03.2020\] Die Zentralen Abschlusswiederholungsklausuren (ZANKs) am 31.03./01. und 2.04. werden verschoben und sollen erst nach Beginn der neuen Präsenzphase (Stand 17.03. ist dies der 20.04) angesetzt werden. Bitte informieren Sie sich regelmäßig über unser "Noten- und Anmeldeportal" oder die Seiten des Studiendekanats über den Stand der Planungen und die konkreten Termine.  
 \[09.04.2020\] Die neuen Termine für die ZANK-Nachschreibklausuren werden mit einem Vorlauf von mindestens 3 Wochen bekannt gegeben.&nbsp;Wir schalten die Möglichkeit für eine Änderung der Anmeldung zur ZANK auch für eine An- oder Abmeldung in dem Zeitraum noch einmal frei.&nbsp; Bitte informieren Sie sich regelmäßig über unser "Noten- und Anmeldeportal" oder die Seiten des Studiendekanats über den Stand der Planungen und die konkreten Termine.
+
+\[04.06.2020\] Wichtige Infos Klausuranmeldung ZANK
+
+<div>
+<div>
+<div>
+<p>Klausurtermine ZANK aus dem WiSe 19/20 vom 23. - 25. Juni 2020</p>
+<p>Die Klausuren finden am Campus Klinikum Essen an folgenden Tagen statt:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p><strong>23.06.2020</strong> – 2. Klinisches Semester + Teile des 3.&nbsp;</p>
+<p><strong>24.06.2020 </strong>– 1. Klinisches Semester&nbsp;</p>
+<p><strong>25.06.2020</strong> – 3. Klinisches Semester (Rest)</p>
+<p>Klausurbeginn: 9.00 Uhr<br/>
+Einlasszeit: ab 8.00 Uhr - bitte beachten Sie Ihre individuelle Einlasszeit (s.u.)&nbsp;&nbsp;</p>
+<p>Die <strong>An- oder Abmeldung zur ZANK</strong> (Zentrale Abschlusswiederholungsklausuren des 1. bis 3. klinischen Semester) des <strong>WiSe 2019/20</strong> ist in der Zeit<br/>
+vom <strong>5. Juni</strong>&nbsp;<strong>(12.00 Uhr) - 12. Juni&nbsp;2020 (12.00 Uhr, Ausschlussfrist)</strong> online möglich!</p>
+<p>Alle bereits vorgenommenen Anmeldungen zu den Wiederholungsklausuren der ZANK (urspr. 31.03./01. + 02.04.2020) <strong><em>haben </em>keinen B<em>estand . Sie müssen sich bitte erneut anmelden.</em></strong> In dem angegebenen Zeitraum können Sie&nbsp;Ihre Prüfungsanmeldungsdaten ändern bzw. sich von Prüfungen abmelden. &nbsp;</p>
+<p>Unter dem Menü "Buchung"&nbsp; finden Sie für die Fächer eine Klausuranmeldemöglichkeit&nbsp;für die nach geltender Studienordnung eine Anmeldeberechtigung besteht.</p>
+<p><em>Nach geltender Studienordnung ist "Die Teilnahme an einer Wiederholungsprüfung () nur zulässig, wenn die reguläre Prüfung desselben Semesters nicht bestanden wurde oder eine Entschuldigung gemäß Nr. 2 (des Absatzes der Studienordnung) vorliegt".</em></p>
+<p>Nach dem <strong>12. Juni&nbsp;2020 (12.00 Uhr)</strong> ist eine nachträgliche An- oder Abmeldung zu den ZANK-Klausuren ausgeschlossen.</p>
+<p>Bitte finden Sie aktuelle Regelungen zu&nbsp;<strong>PRÜFUNGSVERSUCHEN und&nbsp;</strong>zur <strong>kurzfristigen ABMELDUNG&nbsp;</strong>von Prüfungen unter unserer Corona-Info Seite&nbsp;<a href="https://www.uni-due.de/med/corona">https://www.uni-due.de/med/corona</a>&nbsp;und dort unter der Rubrik "<strong>Zählung von Prüfungsversuchen".&nbsp;</strong></p>
+<p>Alle Klausuren der ZANK finden am <strong>Campus</strong>&nbsp;<strong>Klinikum Essen </strong>unter Berücksichtigung der dann geltenten Hygienerichtlinien statt. Sie werden nach erfolgter Anmeldung über alle wichtigen Verhaltensregeln an den Prüfungstagen, über Ihre individuelle Einlasszeit in den Klausurram und über Ihren Klausurraum und Sitzplatz informiert.</p>
+</div>
+</div>
+</div>
 
 <span style='font-size:10.0pt;font-family:"Open Sans",sans-serif;color:black'>
 
